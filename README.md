@@ -34,3 +34,5 @@ Apoio na tomada de decisão
 Os dados utilizados são fictícios e foram criados apenas para fins de estudo.
 
 🎥 Demonstração
+
+![Dashboard](./assets/dashboard.gif)
