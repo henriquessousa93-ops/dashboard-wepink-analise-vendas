@@ -1,6 +1,9 @@
 # dashboard-wepink-analise-vendas
 Dashboard desenvolvido em Power BI para análise de pedidos, status e performance operacional com dados fictícios.
 
+
+![Dashboard](https://raw.githubusercontent.com/henriquessousa93-ops/dashboard-wepink-analise-vendas/main/assets/dashboard.gif)
+
 📌 Problema
 
 Empresas que lidam com alto volume de pedidos precisam acompanhar indicadores de forma clara para tomar decisões rápidas e eficientes.
@@ -32,7 +35,3 @@ Apoio na tomada de decisão
 ⚠️ Observação
 
 Os dados utilizados são fictícios e foram criados apenas para fins de estudo.
-
-🎥 Demonstração
-
-![Dashboard](https://raw.githubusercontent.com/henriquessousa93-ops/dashboard-wepink-analise-vendas/main/assets/dashboard.gif)
