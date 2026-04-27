@@ -35,4 +35,4 @@ Os dados utilizados são fictícios e foram criados apenas para fins de estudo.
 
 🎥 Demonstração
 
-![Dashboard](https://raw.githubusercontent.com/henriquessousa93-ops/dashboard-wepink-analise-vendas/main/assets/dashboard.gif)
+![Dashboard](./assets/dashboard.gif)
